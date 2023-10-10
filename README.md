@@ -18,7 +18,7 @@ Step 2: Then initialize an empty SfChipGroup as shown in the following code:
 ```
  <Grid Background="CornflowerBlue">
         <Notification:SfBusyIndicator/>
-</Grid>
+ </Grid>
 ```
 **[C#]**
 ```
